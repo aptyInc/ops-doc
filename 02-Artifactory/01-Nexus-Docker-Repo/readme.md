@@ -1,7 +1,6 @@
 # Nexus artifactory to store docker images
 
-![](https://resource.globenewswire.com/Resource/Download/4926005d-c7f4-4eea-b23b-670dcdfb08b6 | width=100)
-![](https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png | width=100)
+![](https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png)
 
 #### Install Nexus
 > * https://help.sonatype.com/repomanager2/installing-and-running/configuring-nexus-repository-manager-as-a-service
