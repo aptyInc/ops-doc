@@ -1,6 +1,6 @@
 # Serverless Function on Kubernetes
 
-> * https://platform9.com/fission/
+> * https://kubernetes.io/blog/2017/01/fission-serverless-functions-as-service-for-kubernetes/
 
 > * https://aws.amazon.com/blogs/opensource/running-faas-on-kubernetes-cluster-on-aws-using-kubeless
 
