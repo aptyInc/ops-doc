@@ -1,2 +1,4 @@
 ### AWS Stuffs!
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png)
+
+Sources 
+  * > https://www.serverless.com/framework/docs/providers/aws/guide/serverless.yml/
