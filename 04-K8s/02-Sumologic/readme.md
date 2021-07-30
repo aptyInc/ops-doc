@@ -1,0 +1,1 @@
+## Sumologic setup for Log Aggregation on Kubernetes Cluster
